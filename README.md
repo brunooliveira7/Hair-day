@@ -23,16 +23,11 @@ Projeto desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
+- Node Package Manager
 
 ## 💻 Projeto
 
 O usuário pode remover dinamicamente itens da lista, com o total atualizado após cada exclusão.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/DVVxctUNAl4gkfhwLtYxGb/Sistema-de-reembolso-(Community)?node-id=0-1&node-type=canvas&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 
 ## :memo: Licença
 
