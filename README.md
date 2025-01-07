@@ -1,7 +1,7 @@
 <h1 align="center"> Hair-day </h1>
 
 <p align="center">
-Permite aos usuários controle de reembolso com funções de adicionar e listar despesas, exibindo cada item com detalhes de descrição e valor. Ele calcula automaticamente o total das despesas, mostrando o valor acumulado em tempo real. Site disponível em: https://brunooliveira7.github.io/Refund
+O Hair-day permite aos clientes realizarem agendamentos de serviços de cabelo de forma simples e eficiente. Com funcionalidades como registro de clientes, seleção de serviços e horários disponíveis, o Hair-day facilita o gerenciamento de agendas de salões.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O usuário pode remover dinamicamente itens da lista, com o total atualizado após cada exclusão.
+Inclui notificações, visualização de horários em tempo real e integração com banco de dados para armazenar e gerenciar reservas.
 
 ## :memo: Licença
 
