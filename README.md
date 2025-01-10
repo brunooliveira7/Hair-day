@@ -11,7 +11,7 @@ O Hair-day permite aos clientes realizarem agendamentos de serviços de cabelo d
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/Hair-day/blob/main/src/assets/Layout%20HairDay.png">
 </p>
 
 <br>
