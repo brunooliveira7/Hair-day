@@ -1,7 +1,7 @@
 <h1 align="center"> Hair-day </h1>
 
 <p align="center">
-O Hair-day permite aos clientes realizarem agendamentos de serviços de cabelo de forma simples e eficiente. Com funcionalidades como registro de clientes, seleção de serviços e horários disponíveis, o Hair-day facilita o gerenciamento de agendas de salões.
+O app Hair-day permite aos clientes realizarem agendamentos de serviços de corte de cabelo, e outros, de forma simples e eficiente. Com funcionalidades como: registro de clientes, seleção de serviços e horários disponíveis. O Hair-day facilita o gerenciamento de agendas de salões.
 </p>
 
 <p align="center">
